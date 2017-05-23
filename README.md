@@ -3,10 +3,12 @@
 
 A simple app for playing the 15 puzzle. Two
 buttons are implemented for reseting the tiles
-to the completed arrangement. Another button
-is for shuffling to a random configuration.
+to the completed arrangement, and for shuffling
+to a random configuration.
 However, I made sure to make all configurations
-solvable. You can learn more about that here:
+solvable, since half of the starting positions
+for the n-puzzle are impossible to resolve.
+You can learn more about that here:
 https://en.wikipedia.org/wiki/15_puzzle#Solvability
 
 How to run app:
