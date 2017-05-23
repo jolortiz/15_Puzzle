@@ -19,17 +19,15 @@ How to run app:
   For example: If you would like to run the app
   in a broswer, type the command:
   
-  cordova platform add browser
+  $ cordova platform add browser
   
 3.Build the project by typing:
 
-  cordova build
+  $ cordova build
   
 4.Run project and specify what platform to use.
   For example: If you would like to run the app
   in your browser(making sure to have added it
   in step 2) type command:
   
-  cordova run browser
-  
-5.Solve Puzzle(if you can)
+  $ cordova run browser
